@@ -1,0 +1,17 @@
+h1{background-color: lavenderblush;
+margin: 20px;
+padding: 10px;
+border-bottom: 5px outset rgba(173, 216, 230, 0.31);
+}
+img{
+    margin: 20px;
+    padding: 10px;
+    border:  7px outset rgba(0, 0, 0, 0.325)
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+}
